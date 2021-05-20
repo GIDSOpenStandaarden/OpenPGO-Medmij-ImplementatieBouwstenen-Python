@@ -1,3 +1,6 @@
+# This repository has been archived
+Dear reader, The decision has been made to archive this repository. The reason is that the OpenPGO-Medmij-ImplementatieBouwstenen-Python isn’t being used and has deferred maintenance including security vulnerabilities. If you desire to use this adapter, please contact GIDS: info@gidsopenstandaarden.org.
+
 # medmij-python
 
 Python implementation of de MedMij ZAL, OCL, Whitelist and GNL
